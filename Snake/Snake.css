@@ -1,0 +1,22 @@
+html {background-color: #2c2f33; color: white;}
+.Frame {
+    background-color: #23272a;
+    height: 50%;
+    width: 25%;
+    left: 37.5%;
+    top: 25%;
+    position: absolute;
+    border-radius: 8px;
+}
+.controls {
+    left: 25%;
+    top: 75%;
+    height: 25%;
+    width: 50%;
+    position: absolute;
+}
+button {
+    width: 45%;
+    background-color: #7289da;
+    border-radius: 8px;
+}
